@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 About Me
+ 👨‍💻 About Me
 
 - 🔭 I’m a **Software Developer** passionate about building robust, scalable applications.
 - 🌱 Currently expanding my skills in **Cloud Computing**, **DevOps**, and **AI/ML**.
