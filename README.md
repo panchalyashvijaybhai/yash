@@ -1,4 +1,1 @@
-# yash
-this is my profile
-------------------------------------
-I am full stack develooper where buiilding backend and frontend both
+<h1 align="center">Yash</h1>
